@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Pour citer ce livre, utilisez les informations ci-dessous."
+type: book
+title: "Agents Copilot en production : la stratégie Microsoft pour des agents IA fiables, gouvernés et sobres en coûts"
+authors:
+  - family-names: Khchiche
+    given-names: Zakaria
+date-released: 2026-10-05
+version: "1.0"
+language: fr
+url: "https://github.com/Zakariakhchiche/agents-copilot-en-production"
+keywords:
+  - Copilot Studio
+  - Microsoft Foundry
+  - agents IA
+  - IA agentique
+  - RAG
+  - gouvernance
+  - AI Act
