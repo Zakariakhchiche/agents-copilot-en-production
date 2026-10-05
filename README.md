@@ -6,7 +6,7 @@ Zakaria Khchiche · Première édition, octobre 2026
 
 <img src="couverture/couverture.jpg" alt="Couverture du livre Agents Copilot en production" width="320">
 
-**[Lire le livre en PDF](pdf/Agents-Copilot-en-production.pdf)** (108 pages, format 17 × 24 cm) · [Texte source en Markdown](source/livre.md)
+**[Lire le livre en PDF](pdf/Agents-Copilot-en-production.pdf)** (100 pages, liens cliquables, à partager librement) · [Texte source en Markdown](source/livre.md)
 
 ## Pourquoi ce livre
 
@@ -48,7 +48,8 @@ Chaque chapitre ouvre sur l'essentiel et se termine par un piège fréquent et u
 ## Contenu du dépôt
 
 ```
-pdf/Agents-Copilot-en-production.pdf   le livre, mis en pages pour l'impression (17 × 24 cm)
+pdf/Agents-Copilot-en-production.pdf                  le livre, édition numérique avec liens cliquables
+pdf/Agents-Copilot-en-production_impression-17x24.pdf  l'intérieur prêt à imprimer (17 × 24 cm, 108 pages)
 source/livre.md                        le texte intégral en Markdown
 figures/                               les schémas du livre (SVG)
 couverture/couverture.jpg              la première de couverture
