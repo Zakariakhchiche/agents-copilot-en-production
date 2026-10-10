@@ -2,7 +2,7 @@
 
 **La stratégie Microsoft pour des agents IA fiables, gouvernés et sobres en coûts**
 
-Zakaria Khchiche · Première édition, octobre 2026
+Zakaria Khchiche · Première édition, octobre 2026 · DOI [10.5281/zenodo.23281706](https://doi.org/10.5281/zenodo.23281706)
 
 <img src="couverture/couverture.jpg" alt="Couverture du livre Agents Copilot en production" width="320">
 

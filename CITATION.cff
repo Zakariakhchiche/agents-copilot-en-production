@@ -5,8 +5,10 @@ title: "Agents Copilot en production : la stratégie Microsoft pour des agents I
 authors:
   - family-names: Khchiche
     given-names: Zakaria
+    orcid: "https://orcid.org/0009-0005-3765-8214"
 date-released: 2026-10-05
 version: "1.0"
+doi: 10.5281/zenodo.23281706
 language: fr
 url: "https://github.com/Zakariakhchiche/agents-copilot-en-production"
 keywords:
